@@ -1,6 +1,12 @@
 # Visualization of Variation in Cyclists
 
-## Generate the visualization
+## Preview of the visualization
+
+![](Birkopfsteg.png)
+![](Viaduktstrasse.png)
+
+
+## Installation
 
 1. Clone the repository:
 
@@ -20,8 +26,14 @@ cd cyclists-visualization
 npm install
 ```
 
-4. Run the Typescript server
+4. Run the Typescript server to preview
 
 ```
 npm run start
+```
+
+5. And build into `dist`
+
+```
+npm run build
 ```
