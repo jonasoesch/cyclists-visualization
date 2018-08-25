@@ -1,0 +1,80 @@
+body {
+    background-color: #F2F2F2;
+}
+h1 {
+    text-align: center;
+    font-size: 30px;
+    font-family: "Avenir";
+    font-weight: 900;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #000;
+    margin-bottom: 40px;
+    margin-top: 160px;
+}
+
+#container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.author {
+    font: 20px "Adobe Text Pro";
+    text-align: center;
+    margin-bottom: 140px;
+    font-style: italic;
+}
+
+.smallcaps {
+    font-variant-caps: small-caps;
+    -moz-font-feature-settings: "smcp";
+    -webkit-font-feature-settings: "smcp";
+    font-feature-settings: "smcp";
+    font-style: normal;
+}
+
+article {
+    margin: 40px auto;
+    max-width: 800px;
+    font: 16px/24px "Fira Sans OT";
+    font-weight: Regular;
+    color: #444;
+}
+
+
+.frame {
+    padding: 10px;
+    margin: 80px 0;
+    box-sizing: border-box;
+}
+
+.border {
+    border: 5px solid #fff;
+}
+
+#publishers {
+    max-width: 450px;
+    margin: 80px auto;
+}
+
+
+img {
+    width: 100%;
+}
+
+.label {
+    font-weight: bold;
+}
+
+a {
+    color: #4A90E2;
+}
+
+a:visited {
+    color: #83AD13;
+}
+
+p {
+    position: relative;
+    z-index: 10;
+}
