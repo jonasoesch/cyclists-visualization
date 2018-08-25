@@ -1,5 +1,14 @@
 # Visualization of Variation in Cyclists
 
+Done for the [TWIST Hackathon 2018](https://www.twist2018.ch/). In collaboration with a wonderful team:
+
+* Monika Hebersen
+* Dominik Meier
+* Jacques Gengler
+* Adrian Leuenberger
+* Robert Dorbritz
+* Jonas Oesch
+
 ## Preview of the visualization
 
 ![](Birkopfsteg.png)
