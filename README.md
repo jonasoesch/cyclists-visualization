@@ -11,8 +11,6 @@ Done for the [TWIST Hackathon 2018](https://www.twist2018.ch/). In collaboration
 
 The visualization design is a copy of the fantastic work by Nadieh Brehmer and Zan Armstrong done for [Scientific American](https://blogs.scientificamerican.com/sa-visual/why-are-so-many-babies-born-around-8-00-a-m/?WT.mc_id=SA_FB_BIO_BLOG_INFO)
 
-![Team](team.jpg)
-
 ## Preview of the visualization
 
 ![](Birkopfsteg.png)
